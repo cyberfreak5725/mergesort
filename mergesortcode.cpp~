@@ -71,6 +71,6 @@ int main()
     mergesort(arr,0,s-1);
     for(int i=0;i<s;i++)
     {
-        cout<<arr[i]<<" "; //showing the output clearly
+        cout<<arr[i]<<" ";
     }
 }
